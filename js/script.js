@@ -1,7 +1,7 @@
 // Typing animation
 
 var typed = new Typed(".typing", {
-    strings: ["","Publicitária", "Publicitária", "Publicitária"],
+    strings: ["","Publicitária", "Comunicóloga"],
     typeSpeed:100,
     backSpeed:60,
     // backDelay:100,
